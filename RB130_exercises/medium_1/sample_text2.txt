@@ -1,0 +1,5 @@
+Hello! This is sample text 2.
+
+This is the second line of sample text 2.
+
+And this is the file line of sample text 2.
